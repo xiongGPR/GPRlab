@@ -1,8 +1,23 @@
+
 # GPRlab
 
 ![1551686036144_.pic](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306061528806.jpg)
 
 该软件是探地雷达（GPR）数据分析和研究的开源免费软件。软件可读取dzt，rd3，DT1等商业软件格式和矩阵排列的GPR数据，可保存处理流程和处理后的数据，并将数据传送至MATLAB的工作区。软件可显示雷达图和波形图，软件数据处理功能完备，具有去直流、去背景、信号增益、数学运算、一维滤波、二维滤波、波形分析等算法。软件中的图像中，具有保存图片，直接放大缩小图像，删除数据点，观测数据点，复制保存数据点等功能。
+
+
+- [GPRlab](#gprlab)
+  - [软件功能](#软件功能)
+  - [Installation](#installation)
+    - [1. 在MATLAB中安装GPRlab](#1-在matlab中安装gprlab)
+    - [2. 独立的桌面软件](#2-独立的桌面软件)
+    - [3. GPRlab的卸载](#3-gprlab的卸载)
+  - [Usage](#usage)
+    - [Case 1](#case-1)
+    - [Case 2](#case-2)
+  - [Contributing](#contributing)
+  - [License](#license)
+
 
 ## 软件功能
 
@@ -66,6 +81,9 @@
 
 <center> fig.3  Example of GPR data
 
+
+
+
 ### Case 2
 
 案例2的数据是从位于月球背面南极冯卡门陨石坑的嫦娥四号探月雷达500MHz天线获取的。 我们的处理目标是获取月球表面附近的地下结构。 处理步骤分为三个步骤。
@@ -87,7 +105,7 @@ If you would like to contribute to My Awesome Project, please read the [contribu
 
 ## License
 
-My Awesome Project is licensed under the [MIT License](tauri://localhost/LICENSE).
+My Awesome Project is licensed under the [GNU GENERAL PUBLIC LICENSE](https://github.com/xiongGPR/GPRlab/blob/main/LICENSE).
 
 
 

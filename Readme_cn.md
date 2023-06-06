@@ -51,11 +51,11 @@
 
 ### 1. 在MATLAB中安装GPRlab
 
-- (1) 首先确保您的电脑中安装有MATLAB R2020b及以上版本。
+1. 首先确保您的电脑中安装有MATLAB R2020b及以上版本。
 
-- (2) 如图 2‑1，打开MATLAB，进入APP模块，点击安装App，选择我们提供的GPRlab.mlappinstall.
+2. 如图 2‑1，打开MATLAB，进入APP模块，点击安装App，选择我们提供的GPRlab.mlappinstall.
 
-- (3)安装完成后，GPRlab就作为您MATLAB中的一个App (如图 2‑2)，点击即可使用。
+3. 安装完成后，GPRlab就作为您MATLAB中的一个App (如图 2‑2)，点击即可使用。
 
 ![image-20230601150731047](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062011123.bmp)
 

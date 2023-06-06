@@ -4,8 +4,7 @@
 </h1>
 
 
-
-<h4 align="center">探地雷达（GPR）数据分析和研究的开源免费软件.</h4>
+<h4 align="center">GPRlab is an open-source and free software for data analysis and research of ground-penetrating radar.</h4>
 
 <p align="center">
   <a href="https://github.com/xiongGPR/GPRlab/actions">

@@ -1,7 +1,8 @@
 <h1 align="center">
-  <img src="https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306061528806.jpg" alt="GPRlab" width="200">
+  <img src="https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306061528806.jpg" alt="GPRlab" width="600">
       <br>GPRlab<br>
 </h1>
+
 
 
 <h4 align="center">探地雷达（GPR）数据分析和研究的开源免费软件.</h4>
@@ -42,7 +43,9 @@ As shown in Figure 2, the nine modules in the GPRlab menu provide 31 algorithms 
 
 ![image-20230606150105747](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062013495.jpg)
 
-<center> Fig.2 Software functionalities
+<h6 align="center">
+<br>Fig.2 Software functionalities<br>
+</h6>
 
 
 ## Installation
@@ -59,12 +62,16 @@ We recommend installing this software as an App in MATLAB, although GPRlab can a
 
 ![image-20230601150731047](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062011123.bmp)
 
-<center> Fig.2-1 Installing GPRlab in MATLAB
-
+<h6 align="center">
+<br>Fig.2-1 Installing GPRlab in MATLAB<br>
+</h6>
 
 ![image-20230606202349587](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062023722.png)
 
-<center> Fig.2-2 GPRlab installed in MATLAB
+<h6 align="center">
+<br>Fig.2-2 GPRlab installed in MATLAB<br>
+</h6>
+
 
 
 ### 2. Standalone desktop software
@@ -97,8 +104,9 @@ By comparing Figure 3a and 3d, the effect of data processing becomes obvious. Th
 
 ![image-20230606145706692](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062015981.svg)
 
-<center> Fig.3 Example of GPR data
-
+<h6 align="center">
+<br>Fig.3 Example of GPR data<br>
+</h6>
 
 ### Case 2
 
@@ -113,8 +121,9 @@ The data of Case 2 was obtained from the 500MHz antenna of the Chang'e 4 lunar e
 
 ![image-20230606145931158](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062017136.jpg)
 
-<center> Fig.4 Example of lunar radar data
-
+<h6 align="center">
+<br>Fig.4 Example of lunar radar data<br>
+</h6>
 
 ## Contributing
 

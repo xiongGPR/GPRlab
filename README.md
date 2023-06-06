@@ -40,7 +40,7 @@ GPRlab is an open-source and free software for data analysis and research of gro
 
 As shown in Figure 2, the nine modules in the GPRlab menu provide 31 algorithms covering all commonly used methods in GPR data processing. These algorithms will be modified or expanded based on user feedback and progress in our research.
 
-![image-20230606150105747](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306061501783.png)
+![image-20230606150105747](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062013495.jpg)
 
 <center> Fig.2 Software functionalities
 
@@ -57,12 +57,12 @@ We recommend installing this software as an App in MATLAB, although GPRlab can a
 
 - (3) After installation, GPRlab will appear as an App in your MATLAB (as shown in Figure 2-2), click to use.
 
-![image-20230601150731047](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306011507190.png)
+![image-20230601150731047](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062011123.bmp)
 
 <center> Fig.2-1 Installing GPRlab in MATLAB
 
 
-![image-20230601150835834](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306011508880.png)
+![image-20230606202349587](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062023722.png)
 
 <center> Fig.2-2 GPRlab installed in MATLAB
 
@@ -95,7 +95,7 @@ In Case 1, we obtained data from a vehicle-mounted GPR system, and the task is t
 
 By comparing Figure 3a and 3d, the effect of data processing becomes obvious. The internal structure of the tunnel lining that was previously hidden has appeared, achieving the goal of our processing steps.
 
-![image-20230606145706692](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306061457771.png)
+![image-20230606145706692](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062015981.svg)
 
 <center> Fig.3 Example of GPR data
 
@@ -111,7 +111,7 @@ The data of Case 2 was obtained from the 500MHz antenna of the Chang'e 4 lunar e
 3) Use the "Load processing" button to import the "case2_Processing.xlsx" file, or access the menu settings to set the processing workflow (Figure 4c). Then click the "Yes" button. Adjust the palette to "jet" mode to obtain the processing result shown in Figure 4d.
    Obviously, the processing result displayed by GPRlab in Figure 4d reveals the near-surface structure below the Von Kármán crater on the back of the Moon, which cannot be observed from any meaningful information in the original data shown in Figure 4a.
 
-![image-20230606145931158](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306061459216.png)
+![image-20230606145931158](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062017136.jpg)
 
 <center> Fig.4 Example of lunar radar data
 

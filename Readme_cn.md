@@ -41,7 +41,7 @@
 
 如图2所示，GPRlab菜单的9个模块中提供了31种算法，涵盖了GPR数据处理中所有常用的方法。 这些算法将根据用户反馈和我们正在进行的研究进展进行修改或扩展。
 
-![image-20230606150105747](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306061501783.png)
+![image-20230606150105747](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062013495.jpg)
 
 <center> Fig.2 Software functionalities
 
@@ -57,12 +57,12 @@
 
 - (3)安装完成后，GPRlab就作为您MATLAB中的一个App (如图 2‑2)，点击即可使用。
 
-![image-20230601150731047](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306011507190.png)
+![image-20230601150731047](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062011123.bmp)
 
 <center> 图 2‑1  MATLAB中安装GPRlab
 
 
-![image-20230601150835834](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306011508880.png)
+![image-20230606202349587](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062023722.png)
 
 <center> 图 2‑2 MATLAB中已安装的GPRlab
 
@@ -95,7 +95,7 @@
 
 通过对比图 3a 和 3d，数据处理的效果变得明显。 先前隐藏的隧道衬砌内部结构出现，实现了我们处理步骤的目标。
 
-![image-20230606145706692](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306061457771.png)
+![image-20230606145706692](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062015981.svg)
 
 <center> fig.3  Example of GPR data
 
@@ -113,7 +113,7 @@
 3) 使用“加载处理”按钮导入“case2_Processing.xlsx”文件，或访问菜单设置以设置处理工作流（图 4c）。 然后单击“是”按钮。 将调色板调整为“喷射”模式以获得图 4d 所示的处理结果。
    显然，图 4d 中使用 GPRlab 显示的处理结果揭示了月球背面 Von Kármán 陨石坑下方的近地表结构，而从图 4a 中显示的原始数据中无法观察到任何有意义的信息。
 
-![image-20230606145931158](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306061459216.png)
+![image-20230606145931158](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062017136.jpg)
 
 <center> Fig.4 Example of lunar radar data
 

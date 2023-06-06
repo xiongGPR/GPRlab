@@ -1,22 +1,40 @@
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306061528806.jpg" alt="GPRlab" width="200">
+      <br>GPRlab<br>
+</h1>
 
-# GPRlab
 
-![1551686036144_.pic](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306061528806.jpg)
+<h4 align="center">探地雷达（GPR）数据分析和研究的开源免费软件.</h4>
+
+<p align="center">
+  <a href="https://github.com/xiongGPR/GPRlab/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/xiongGPR/GPRlab/release.yml?branch=master&style=flat-square" alt="Github Actions">
+  </a>
+  <a href="https://goreportcard.com/report/github.com/xiongGPR/GPRlab">
+    <img src="https://goreportcard.com/badge/github.com/xiongGPR/GPRlab?style=flat-square">
+  </a>
+  <img src="https://img.shields.io/github/go-mod/go-version/xiongGPR/GPRlab?style=flat-square">
+  <a href="https://github.com/xiongGPR/GPRlab/releases">
+    <img src="https://img.shields.io/github/release/xiongGPR/GPRlab/all.svg?style=flat-square">
+  </a>
+  <a href="https://github.com/xiongGPR/GPRlab/releases/tag/premium">
+    <img src="https://img.shields.io/badge/release-Premium-00b4f0?style=flat-square">
+  </a>
+</p>
 
 该软件是探地雷达（GPR）数据分析和研究的开源免费软件。软件可读取dzt，rd3，DT1等商业软件格式和矩阵排列的GPR数据，可保存处理流程和处理后的数据，并将数据传送至MATLAB的工作区。软件可显示雷达图和波形图，软件数据处理功能完备，具有去直流、去背景、信号增益、数学运算、一维滤波、二维滤波、波形分析等算法。软件中的图像中，具有保存图片，直接放大缩小图像，删除数据点，观测数据点，复制保存数据点等功能。
 
 
-- [GPRlab](#gprlab)
-  - [软件功能](#软件功能)
-  - [Installation](#installation)
-    - [1. 在MATLAB中安装GPRlab](#1-在matlab中安装gprlab)
-    - [2. 独立的桌面软件](#2-独立的桌面软件)
-    - [3. GPRlab的卸载](#3-gprlab的卸载)
-  - [Usage](#usage)
-    - [Case 1](#case-1)
-    - [Case 2](#case-2)
-  - [Contributing](#contributing)
-  - [License](#license)
+- [软件功能](#软件功能)
+- [Installation](#installation)
+  - [1. 在MATLAB中安装GPRlab](#1-在matlab中安装gprlab)
+  - [2. 独立的桌面软件](#2-独立的桌面软件)
+  - [3. GPRlab的卸载](#3-gprlab的卸载)
+- [Usage](#usage)
+  - [Case 1](#case-1)
+  - [Case 2](#case-2)
+- [Contributing](#contributing)
+- [License](#license)
 
 
 ## 软件功能

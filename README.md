@@ -1,20 +1,39 @@
-# GPRlab
+<h1 align="center">
+  <img src="https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306061528806.jpg" alt="GPRlab" width="200">
+      <br>GPRlab<br>
+</h1>
 
-![1551686036144_.pic](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306061528806.jpg)
+
+<h4 align="center">探地雷达（GPR）数据分析和研究的开源免费软件.</h4>
+
+<p align="center">
+  <a href="https://github.com/xiongGPR/GPRlab/actions">
+    <img src="https://img.shields.io/github/actions/workflow/status/xiongGPR/GPRlab/release.yml?branch=master&style=flat-square" alt="Github Actions">
+  </a>
+  <a href="https://goreportcard.com/report/github.com/xiongGPR/GPRlab">
+    <img src="https://goreportcard.com/badge/github.com/xiongGPR/GPRlab?style=flat-square">
+  </a>
+  <img src="https://img.shields.io/github/go-mod/go-version/xiongGPR/GPRlab?style=flat-square">
+  <a href="https://github.com/xiongGPR/GPRlab/releases">
+    <img src="https://img.shields.io/github/release/xiongGPR/GPRlab/all.svg?style=flat-square">
+  </a>
+  <a href="https://github.com/xiongGPR/GPRlab/releases/tag/premium">
+    <img src="https://img.shields.io/badge/release-Premium-00b4f0?style=flat-square">
+  </a>
+</p>
 
 GPRlab is an open-source and free software for data analysis and research of ground-penetrating radar (GPR). The software can read commercial software formats such as dzt, rd3, DT1, and matrix-arranged GPR data, save processing steps and processed data, and transfer data to the MATLAB workspace. The software can display radar images and waveform graphs, and has complete data processing functions, including DC removal, background removal, signal gain, mathematical operations, one-dimensional filtering, two-dimensional filtering, waveform analysis, and other algorithms. The software's image has various functions such as saving images, directly zooming in and out of images, deleting data points, observing data points, and copying and saving data points.
 
-- [GPRlab](#gprlab)
-  - [Software Functions](#software-functions)
-  - [Installation](#installation)
-    - [1. Installing GPRlab in MATLAB](#1-installing-gprlab-in-matlab)
-    - [2. Standalone desktop software](#2-standalone-desktop-software)
-    - [3. Uninstalling GPRlab](#3-uninstalling-gprlab)
-  - [Usage](#usage)
-    - [Case 1](#case-1)
-    - [Case 2](#case-2)
-  - [Contributing](#contributing)
-  - [License](#license)
+- [Software Functions](#software-functions)
+- [Installation](#installation)
+  - [1. Installing GPRlab in MATLAB](#1-installing-gprlab-in-matlab)
+  - [2. Standalone desktop software](#2-standalone-desktop-software)
+  - [3. Uninstalling GPRlab](#3-uninstalling-gprlab)
+- [Usage](#usage)
+  - [Case 1](#case-1)
+  - [Case 2](#case-2)
+- [Contributing](#contributing)
+- [License](#license)
 
 
 ## Software Functions

@@ -21,6 +21,7 @@
     <img src="https://img.shields.io/badge/release-Premium-00b4f0?style=flat-square">
   </a>
 </p>
+[en](https://github.com/xiongGPR/GPRlab/blob/main/README.md)|[中文](https://github.com/xiongGPR/GPRlab/blob/main/Readme_cn.md)
 
 该软件是探地雷达（GPR）数据分析和研究的开源免费软件。软件可读取dzt，rd3，DT1等商业软件格式和矩阵排列的GPR数据，可保存处理流程和处理后的数据，并将数据传送至MATLAB的工作区。软件可显示雷达图和波形图，软件数据处理功能完备，具有去直流、去背景、信号增益、数学运算、一维滤波、二维滤波、波形分析等算法。软件中的图像中，具有保存图片，直接放大缩小图像，删除数据点，观测数据点，复制保存数据点等功能。
 

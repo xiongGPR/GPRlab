@@ -1,0 +1,7 @@
+Antenna（MHz）：500
+Relative permittivity：3
+Time-window（ns）：640
+Sampling interval（m）：0
+Start（m）：0
+End（m）：105
+Time-zero（ns）：0

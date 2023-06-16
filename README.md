@@ -103,9 +103,6 @@ Refer to the manual: [GPRlab User Manual](https://github.com/xiongGPR/GPRlab/blo
 
 By contrasting Fig. 3a and Fig. 3d, the effect of data processing becomes evident. The previously hidden internal structure of the tunnel lining emerges, fulfilling the objective of our processing steps.
 
-![image](https://github.com/xiongGPR/GPRlab/assets/66907005/ed29c1ef-7482-4d55-8f07-afef76606696)
-
-
 
 ![image-20230606145706692](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062015981.svg)
 

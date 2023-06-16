@@ -125,9 +125,6 @@ By contrasting Fig. 3a and Fig. 3d, the effect of data processing becomes eviden
 
 Clearly, the processing result displayed in Fig. 4d using GPRlab reveals the near-surface structure beneath the Von Kármán crater on the lunar far side, whereas no meaningful information can be observed from the raw data shown in Fig. 4a.
 
-![image](https://github.com/xiongGPR/GPRlab/assets/66907005/5bbc807e-02ba-41ad-88c5-565894d4c5ee)
-
-
 ![image-20230606145931158](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062017136.jpg)
 
 <h6 align="center">

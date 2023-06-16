@@ -93,15 +93,19 @@ Refer to the manual: [GPRlab User Manual](https://github.com/xiongGPR/GPRlab/blo
 
 ### Case 1
 
-In Case 1, we obtained data from a vehicle-mounted GPR system, and the task is to evaluate the integrity of the internal structure of a high-speed railway tunnel. Our goal is to identify the internal structure integrity of the tunnel lining. The processing sequence is generally divided into three steps.
+[The raw data](https://github.com/xiongGPR/GPRlab/blob/main/examples/case1/Case1_Processing.csv) came from a train-mounted GPR system, tasked with assessing a high-speed railway tunnel. Our goal was to discern the tunnel lining's internal structural integrity. The processing sequence can be generally categorized into three steps.
 
-1) Figure 3a shows the first step. Use the data model module, select "Load" to input the "case1_raw_data.csv" data file and set the necessary parameters. Click the "Yes" button to confirm your settings.
+(1) Fig. 3a illustrates the first step. In the Data module, users select "Load" to input the "case2_raw_data.csv" and set the necessary parameters. Confirm settings by clicking the "Yes" button.
 
-2) Enter the image processing module. Here, the unprocessed data is visible in Figure 3b. However, it is obvious that the original data cannot provide the required structural information without further processing.
+(2) Proceed to the Image processing module. Here, the unprocessed data is visible in Fig. 3b. However, the raw data cannot provide the required structural information without further processing.
 
-3) Use the "Load processing" button to import the "case1_Processing.csv" file, or access the menu settings to set the processing workflow (Figure 4c). By clicking the "Yes" button, you confirm your operation and generate the processing result displayed in Figure 3d. If you need to return to the original data, you can use the "Reset_rawdata" button.
+(3) Use the "Load processing" button to import the "case2_Processing.csv" file, or access menu settings to set up the processing workflow (Fig. 3c). By clicking the "Yes" button, you confirm your actions and generate the processed result showcased in Fig. 3d. If a return to the original data becomes necessary, users can use the "Reset_rawdata" button.
 
-By comparing Figure 3a and 3d, the effect of data processing becomes obvious. The internal structure of the tunnel lining that was previously hidden has appeared, achieving the goal of our processing steps.
+By contrasting Fig. 3a and Fig. 3d, the effect of data processing becomes evident. The previously hidden internal structure of the tunnel lining emerges, fulfilling the objective of our processing steps.
+
+![image](https://github.com/xiongGPR/GPRlab/assets/66907005/ed29c1ef-7482-4d55-8f07-afef76606696)
+
+
 
 ![image-20230606145706692](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062015981.svg)
 
@@ -111,14 +115,18 @@ By comparing Figure 3a and 3d, the effect of data processing becomes obvious. Th
 
 ### Case 2
 
-The data of Case 2 was obtained from the 500MHz antenna of the Chang'e 4 lunar exploration radar located in the Von Kármán Crater in the South Pole of the Moon. Our processing goal is to obtain underground structures near the lunar surface. The processing steps are divided into three steps.
+[The data](https://github.com/xiongGPR/GPRlab/blob/main/examples/case2/case2_Processing.csv) was obtained from the 500MHz antenna of Chang'e-4 lunar exploration radar in the Von Kármán crater at the south pole on the back of the Moon. Our processing goal was to obtain the underground structure near the surface of the Moon. The processing steps are divided into three steps.
 
-1) Figure 4a shows the first step. Use the data model module, select "Load" to input the "case2_raw_data.csv" data file and set the necessary parameters. Click the "Yes" button to confirm your settings.
+(1) Fig. 4a illustrates the first step. In the Data module, users select "Load" to input the "case3_raw_data.csv" data file and set the necessary parameters. Confirm your settings by clicking the "Yes" button.
 
-2) Enter the image processing module. Here, the unprocessed data is visible in Figure 4b. However, it is obvious that the original data cannot provide the required structural information without further processing.
+(2) Proceed to the Image processing module. Here, the unprocessed data is visible in Fig. 4b. However, the raw data cannot provide the required structural information without further processing.
 
-3) Use the "Load processing" button to import the "case2_Processing.xlsx" file, or access the menu settings to set the processing workflow (Figure 4c). Then click the "Yes" button. Adjust the palette to "jet" mode to obtain the processing result shown in Figure 4d.
-   Obviously, the processing result displayed by GPRlab in Figure 4d reveals the near-surface structure below the Von Kármán crater on the back of the Moon, which cannot be observed from any meaningful information in the original data shown in Figure 4a.
+(3) Use the "Load processing" button to import the "case3_Processing.xlsx" file, or access menu settings to set up the processing workflow (Fig. 4c). Then click the "Yes" button. Adjust the color palette to the "jet" mode to obtain the processing result shown in Fig. 4d.
+
+Clearly, the processing result displayed in Fig. 4d using GPRlab reveals the near-surface structure beneath the Von Kármán crater on the lunar far side, whereas no meaningful information can be observed from the raw data shown in Fig. 4a.
+
+![image](https://github.com/xiongGPR/GPRlab/assets/66907005/5bbc807e-02ba-41ad-88c5-565894d4c5ee)
+
 
 ![image-20230606145931158](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062017136.jpg)
 

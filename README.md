@@ -112,7 +112,9 @@ https://github.com/xiongGPR/GPRlab/assets/66907005/ca39adfc-5c5c-4a79-b92f-c4946
 By contrasting Fig. 3a and Fig. 3d, the effect of data processing becomes evident. The previously hidden internal structure of the tunnel lining emerges, fulfilling the objective of our processing steps.
 
 
-![image-20230606145706692](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062015981.svg)
+<!-- ![image-20230606145706692](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062015981.svg) -->
+
+![fig3](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230608202306162056862.jpg)
 
 <h6 align="center">
 <br>Fig.3 Example of GPR data<br>
@@ -130,7 +132,9 @@ By contrasting Fig. 3a and Fig. 3d, the effect of data processing becomes eviden
 
 Clearly, the processing result displayed in Fig. 4d using GPRlab reveals the near-surface structure beneath the Von Kármán crater on the lunar far side, whereas no meaningful information can be observed from the raw data shown in Fig. 4a.
 
-![image-20230606145931158](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062017136.jpg)
+<!-- ![image-20230606145931158](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062017136.jpg) -->
+
+![fig4](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230608202306162058893.jpg)
 
 <h6 align="center">
 <br>Fig.4 Example of lunar radar data<br>

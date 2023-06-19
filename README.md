@@ -77,7 +77,7 @@ We recommend installing this software as an App in MATLAB, although GPRlab can a
 
 ### 2. Standalone desktop software
 
-If your computer already has MATLAB R2020b or above installed, you can directly open the exe/for_redistribution_files_only folder, click GPRlab.exe to run GPRlab, or send a shortcut of GPRlab.exe to your computer desktop.
+If your computer already has MATLAB R2020b or above installed, you can directly open the exe/for_redistribution_files_only folder, click GPRlab.exe to run GPRlab, or send a shortcut of GPRlab.exe to your computer desktop.[You can download from this links](https://1drv.ms/f/s!AtLlzQNYR7acgowVgbbjHqKU8Qv-dQ?e=qSYCWD)
 
 If your computer does not have MATLAB R2020b or above installed, you can use the installation program MyAppInstaller_mcr.exe in the exe/for_redistribution folder to install GPRlab.
 

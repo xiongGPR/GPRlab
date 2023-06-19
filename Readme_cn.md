@@ -84,6 +84,12 @@
 ## Usage
 
 详见说明手册：[GPRlab 说明手册](https://github.com/xiongGPR/GPRlab/blob/main/docs/GPRlab%E7%94%A8%E6%88%B7%E6%89%8B%E5%86%8C-%E4%B8%AD%E6%96%87.pdf)
+  
+video: [video1](https://www.bilibili.com/video/BV1HX4y1D7Ve/?vd_source=6b3fc235af5b93e6ec8ca4cb7717ab06) [video2](https://www.bilibili.com/video/BV17g4y1E7VJ/?vd_source=6b3fc235af5b93e6ec8ca4cb7717ab06) [video3](https://www.bilibili.com/video/BV1Ev4y1h7Xx/?spm_id_from=333.999.0.0&vd_source=6b3fc235af5b93e6ec8ca4cb7717ab06) [video4](https://www.bilibili.com/video/BV1r84y1K7Ag/?vd_source=6b3fc235af5b93e6ec8ca4cb7717ab06)
+
+show video: 
+
+https://github.com/xiongGPR/GPRlab/assets/66907005/ca39adfc-5c5c-4a79-b92f-c49468e9e930
 
 ### Case 1
   
@@ -96,7 +102,10 @@
 (3) 使用“加载处理”按钮导入“case2_Processing.csv”文件，或访问菜单设置以设置处理工作流程（图 3c）。 通过单击“是”按钮，您确认您的操作并生成图 3d 中显示的处理结果。 如果需要返回原始数据，用户可以使用“Reset_rawdata”按钮。
 通过对比图 3a 和图 3d，数据处理的效果变得明显。 先前隐藏的隧道衬砌内部结构出现，实现了我们处理步骤的目标。
 
-![image-20230606145706692](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062015981.svg)
+<!-- ![image-20230606145706692](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062015981.svg) -->
+
+![fig3](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230608202306162056862.jpg)
+  
 
 <center> fig.3  Example of GPR data
 
@@ -105,7 +114,7 @@
 
 ### Case 2
   
-[数据](https://github.com/xiongGPR/GPRlab/blob/main/examples/case2/case2_Processing.csv)来自位于月球背面南极冯卡门陨石坑的嫦娥四号探月雷达500MHz天线。 我们的处理目标是获得月球表面附近的地下结构。 处理步骤分为三个步骤。
+[数据](https://github.com/xiongGPR/GPRlab/blob/main/examples/case2/case2_Processing.csv)(因为数据太大，数据保存在一个驱动上，数据放在release https://github.com/xiongGPR/GPRlab/releases/tag/0.0.8/case3_raw_data.csv) 来自位于月球背面南极冯卡门陨石坑的嫦娥四号探月雷达500MHz天线。 我们的处理目标是获得月球表面附近的地下结构。 处理步骤分为三个步骤。
   
 (1) 图 4a 说明了第一步。 在数据模块中，用户选择“加载”以输入“case3_raw_data.csv”数据文件并设置必要的参数。 单击“是”按钮确认您的设置。
   
@@ -114,7 +123,9 @@
 (3) 使用“加载处理”按钮导入“case3_Processing.xlsx”文件，或访问菜单设置以设置处理工作流程（图 4c）。 然后单击“是”按钮。 将调色板调整为“喷射”模式，得到如图4d所示的处理结果。
 显然，图 4d 中使用 GPRlab 显示的处理结果揭示了月球背面 Von Kármán 陨石坑下方的近地表结构，而从图 4a 中显示的原始数据中无法观察到有意义的信息。
 
-![image-20230606145931158](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062017136.jpg)
+<!-- ![image-20230606145931158](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230404/202306062017136.jpg) -->
+
+![fig4](https://raw.githubusercontent.com/erbiaoger/PicGo/main/20230608202306162058893.jpg)
 
 <center> Fig.4 Example of lunar radar data
 

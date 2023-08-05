@@ -68,7 +68,7 @@ Case 1: GPR data of a bridge.
 
 Case 2: GPR data of a tunnel. 
 
-Case 3: Data from lunar exploration radar.
+Case 3: Data from lunar exploration radar. https://github.com/xiongGPR/GPRlab/releases/tag/0.0.8
 ## Contributing
 
 If you would like to contribute to My Awesome Project, please read the contribution guidelines.

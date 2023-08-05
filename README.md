@@ -64,9 +64,9 @@ Teaching videos: [video1](https://www.bilibili.com/video/BV1HX4y1D7Ve/?vd_source
 ## Exanples
 We have provided 3 cases in: ./examples
 
-Case 1: GPR data of a bridge.
+Case 1: GPR data of a bridge. https://github.com/xiongGPR/GPRlab/tree/main/examples/case1
 
-Case 2: GPR data of a tunnel. 
+Case 2: GPR data of a tunnel. https://github.com/xiongGPR/GPRlab/tree/main/examples/case2
 
 Case 3: Data from lunar exploration radar. https://github.com/xiongGPR/GPRlab/releases/tag/0.0.8
 ## Contributing

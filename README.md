@@ -51,15 +51,15 @@ We recommend installing this software as an App in MATLAB, although GPRlab can a
 </h6>
 
 
-## Usage
+## Installation and easy to use videos, must watch!
+https://github.com/xiongGPR/GPRlab/assets/107855719/dfadaf1b-7645-432e-9596-bf774b9bc84e
+
+
+## Learning reference materials
 
 Refer to the manual: [GPRlab User Manual](https://github.com/xiongGPR/GPRlab/blob/main/docs/GPRlab%20User%20Manual%20-English.pdf)
 
-video: [video1](https://www.bilibili.com/video/BV1HX4y1D7Ve/?vd_source=6b3fc235af5b93e6ec8ca4cb7717ab06) [video2](https://www.bilibili.com/video/BV17g4y1E7VJ/?vd_source=6b3fc235af5b93e6ec8ca4cb7717ab06) [video3](https://www.bilibili.com/video/BV1Ev4y1h7Xx/?spm_id_from=333.999.0.0&vd_source=6b3fc235af5b93e6ec8ca4cb7717ab06) [video4](https://www.bilibili.com/video/BV1r84y1K7Ag/?vd_source=6b3fc235af5b93e6ec8ca4cb7717ab06)
-
-show video: 
-
-https://github.com/xiongGPR/GPRlab/assets/66907005/ca39adfc-5c5c-4a79-b92f-c49468e9e930
+Teaching videos: [video1](https://www.bilibili.com/video/BV1HX4y1D7Ve/?vd_source=6b3fc235af5b93e6ec8ca4cb7717ab06) [video2](https://www.bilibili.com/video/BV17g4y1E7VJ/?vd_source=6b3fc235af5b93e6ec8ca4cb7717ab06) [video3](https://www.bilibili.com/video/BV1Ev4y1h7Xx/?spm_id_from=333.999.0.0&vd_source=6b3fc235af5b93e6ec8ca4cb7717ab06) [video4](https://www.bilibili.com/video/BV1r84y1K7Ag/?vd_source=6b3fc235af5b93e6ec8ca4cb7717ab06)
 
 
 ## Contributing

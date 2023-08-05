@@ -1,0 +1,5 @@
+1,Remove background,1,1600,0,0,0,0,0,0
+1,GRMS automatic gain,20,0,0,0,0,0,0,0
+1,f_k filter,15,0.2,0,0,0,0,0,0
+1,2D filter,median filter,5,5,0,0,0,0,0
+1,Vertical filtering,FIR,150,300,900,1200,0,0,0

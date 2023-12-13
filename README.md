@@ -61,7 +61,7 @@ Refer to the manual: [GPRlab User Manual](https://github.com/xiongGPR/GPRlab/blo
 
 Teaching videos: [video1](https://www.bilibili.com/video/BV1HX4y1D7Ve/?vd_source=6b3fc235af5b93e6ec8ca4cb7717ab06) [video2](https://www.bilibili.com/video/BV17g4y1E7VJ/?vd_source=6b3fc235af5b93e6ec8ca4cb7717ab06) [video3](https://www.bilibili.com/video/BV1Ev4y1h7Xx/?spm_id_from=333.999.0.0&vd_source=6b3fc235af5b93e6ec8ca4cb7717ab06) [video4](https://www.bilibili.com/video/BV1r84y1K7Ag/?vd_source=6b3fc235af5b93e6ec8ca4cb7717ab06)
 
-## Exanples
+## Examples
 We have provided 3 cases in: ./examples
 
 Case 1: GPR data of a bridge. https://github.com/xiongGPR/GPRlab/tree/main/examples/case1

@@ -82,7 +82,7 @@ if HD.bits ==8
 elseif HD.bits ==16
     d=fread(fid,[HD.nsamp inf],'uint16');
 elseif HD.bits ==32
-    d=fread(fid,[HD.nsamp inf],'uint32');
+    d=fread(fid,[HD.nsamp inf],'int32');
 else
     d=fread(fid,[HD.nsamp inf],'uint64');
 end

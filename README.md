@@ -99,11 +99,19 @@ Program language: Matlab
 If you find our paper and code useful for your research, please consider giving a star ⭐ and citation 📝 :
 
 @article{xiong2024gprlab,
+
   title={GPRlab: A ground penetrating radar data processing and analysis software based on MATLAB},
+  
   author={Xiong, Hongqiang and Zhang, Zhiyu and Li, Jing},
+  
   journal={SoftwareX},
+  
   volume={26},
+  
   pages={101720},
+  
   year={2024},
+  
   publisher={Elsevier}
+  
 }

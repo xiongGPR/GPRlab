@@ -92,7 +92,13 @@ Software required: Matlab 2020b or later version
 
 Program language: Matlab
 
-## Contact Information
+## Updata Information
+
+July 25, 2025, GPRlab Version 11.0 Update 
+
+Notes:Fixed some issues with reading DZT 32-bit format data.
+
+We hope users will promptly notify us via email if they encounter any issues, so we can update and better serve everyone.
 
 ## Citation
 
